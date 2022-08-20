@@ -1,4 +1,6 @@
-  # Hi, I'm Yovenzor Singh
+![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/66284362/159115513-3ae48dd6-3d9c-416f-83d4-db48de23fac8.png)
+
+# Hi, I'm Yovenzor Singh
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning Web & App Development
 - 👯 I’m looking to collaborate on ... idk
@@ -8,7 +10,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📫 How to reach me: swordofsingh@gmail.com
-
 
 # 💫 About Me:
 - Web Developer, 
