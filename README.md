@@ -3,12 +3,9 @@
 # Hi, I'm Yovenzor Singh
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning Web & App Development
-- 👯 I’m looking to collaborate on ... idk
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Python, Scratch, HTML5, CSS3, JS, C++
 - 👨‍💻 Portfolio: Coming Soon!
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:Happy when I program
 - 📫 How to reach me: swordofsingh@gmail.com
 
 # 💫 About Me:
