@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Web & App Development
 - 💬 Ask me about Python, Scratch, HTML5, CSS3, JS, C++
 - 👨‍💻 Portfolio: Coming Soon!
-- ⚡ Fun fact:Happy when I program
+- ⚡ Fun fact: Happy when I program
 - 📫 How to reach me: swordofsingh@gmail.com
 
 # 💫 About Me:
