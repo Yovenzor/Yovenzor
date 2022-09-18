@@ -1,7 +1,7 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Yovenzor+Singh;Web+Developer+😎;App+Developer+💻;Blockchain+Developer+🏆)](https://git.io/typing-svg)
 # Hi, I'm Yovenzor Singh
 - 🔭 I’m currently working at home.
-- 🌱 I’m currently learning Web & App Development
+- 🌱 I’m currently learning Web & App Developmen
 - 💬 Ask me about Python, Scratch, HTML5, CSS3, JS, C++
 - 👨‍💻 Portfolio: Coming Soon!
 - ⚡ Fun fact: Happy when I program
