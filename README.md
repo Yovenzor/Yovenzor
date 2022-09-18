@@ -1,4 +1,3 @@
-![Markdown-badge-kohasummons-stripped-image](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
 # Hi, I'm Yovenzor Singh
 - 🔭 I’m currently working at home.
