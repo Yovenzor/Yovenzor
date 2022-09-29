@@ -37,9 +37,6 @@
 <a href="https://www.youtube.com/channel/UCF-sFezs4-wHhUutNGkg5Kw?sub_confirmation=1?sub_confirmation=1">
     <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="">
 </a>
-<a href="https://medium.com/@swordofsingh">
-    <img src="https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="">
-</a>
 <a href="https://codepen.io/yovenzor">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="">
 </a>
