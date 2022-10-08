@@ -28,9 +28,6 @@
 <a href="https://www.linkedin.com/in/yovenzor-singh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="">
 </a>
-<a href="https://www.twitch.tv/its_not_llobeti">
-    <img src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="">
-</a>
 <a href="https://twitter.com/yovenzorsingh_">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="">
 </a>
@@ -39,9 +36,6 @@
 </a>
 <a href="https://codepen.io/yovenzor">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="">
-</a>
-<a href="https://www.pinterest.es/yovenzor/">
-    <img src="https://img.shields.io/badge/Pinterest-BD081C.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="">
 </a>
 
 ## 💻 Tech Stack:
