@@ -2,7 +2,7 @@
 - 🔭 I’m currently working at home.
 - 🌱 I’m currently learning Web & App Developmen
 - 💬 Ask me about Python, Scratch, HTML5, CSS3, JS, C++
-- 👨‍💻 Portfolio: [![Shield io](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yovenzor.github.io/Official)
+- 👨‍💻 Portfolio: Coming Soon!
 - ⚡ Fun fact: Happy when I program
 - 📫 How to reach me: swordofsingh@gmail.com
 
@@ -36,6 +36,9 @@
 </a>
 <a href="https://codepen.io/yovenzor">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="">
+</a>
+<a href="(https://yovenzor.github.io/Official">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="">
 </a>
 
 ## 💻 Tech Stack:
