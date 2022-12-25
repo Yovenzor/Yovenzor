@@ -16,9 +16,6 @@
 <a href="https://discord.gg/2Yk6JPVFQa">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="">
 </a>
-<a href="(https://yovenzor.github.io/Official">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="">
-</a>
 <a href="https://www.facebook.com/LaaddyG2winStars">
     <img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="">
 </a>
@@ -36,6 +33,8 @@
 </a>
 <a href="https://codepen.io/yovenzor">
     <img src="https://img.shields.io/badge/CodePen-000000.svg?style=for-the-badge&logo=CodePen&logoColor=white" alt="">
+</a><a href="(https://yovenzor.github.io/Official">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="">
 </a>
 
 
