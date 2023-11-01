@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yovenzor+Singh!;Frontend+Developer 💻"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yovenzor+Singh!;Frontend+Developer+💻;Based+In+Spain+🇪🇸"/>
 </h1>
 
 <div id="header" align="center">
@@ -73,13 +73,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Google-Clon&theme=dark)](https://github.com/Yovenzor/Google-Clon)
 
 
+
 <br>
 
 <h1>🔥 My Stats 🔥</h1>
 
 <br>
 
-![Yovenzor's Stats](https://github-readme-stats.vercel.app/api?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icons=github)
+![Yovenzor's Stats](https://github-readme-stats.vercel.app/api?username=Yovenzor&theme=dark&rank_icon=github&show_icons=true&hide_border=true&count_private=true&rank_icons=github)
 ![Yovenzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
