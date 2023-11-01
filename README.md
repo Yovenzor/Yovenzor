@@ -73,13 +73,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Google-Clon&theme=dark)](https://github.com/Yovenzor/Google-Clon)
 
 
+
 <br>
 
 <h1>🔥 My Stats 🔥</h1>
 
 <br>
 
-![Yovenzor's Stats](https://github-readme-stats.vercel.app/api?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icons=github)
+![Yovenzor's Stats](https://github-readme-stats.vercel.app/api?username=Yovenzor&theme=dark&rank_icon=github&show_icons=true&hide_border=true&count_private=true&rank_icons=github)
 ![Yovenzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
