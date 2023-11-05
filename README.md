@@ -8,11 +8,10 @@
 <br>
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yovenzorsingh?sub_confirmation=1)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yovenzorsingh?sub_confirmation=1)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YovenzorS)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/2Yk6JPVFQa)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/LaaddyG2winStars)
 [![Notion Badge](https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white)](https://yovenzor.notion.site/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:swordofsingh@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-2ECCAA.svg?style=for-the-badge&logoColor=white)](https://yovenzor.github.io/Portfolio/)
