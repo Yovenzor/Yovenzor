@@ -62,5 +62,9 @@
 ![Yovenzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 </div>
+</div>
 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Yovenzor/count.svg?"  />
 </div>
