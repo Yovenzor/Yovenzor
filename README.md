@@ -6,7 +6,7 @@
 
 <div id="header" align="center">
     <img src="https://c.tenor.com/jHg-q58KgiYAAAAC/tenor.gif" />
-</div>
+
 <br>
 <br>
 
