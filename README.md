@@ -10,7 +10,7 @@
 <br>
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
+[![Linkedin Badge](https://img.shields.io/badge/Instagram-f14d5f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
 [![YouTube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yovenzorsingh?sub_confirmation=1)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YovenzorS)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/invite/2Yk6JPVFQa)
