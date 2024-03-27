@@ -39,7 +39,7 @@
 
 <h1 align="center">🛠 Skills 🛠</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github)](https://skillicons.dev)
 
 <br>
 
