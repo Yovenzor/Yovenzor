@@ -1,4 +1,4 @@
-
+<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yovenzor+Singh!;Frontend+Developer+%F0%9F%92%BB;Based+In+Spain+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
 <br>
 
