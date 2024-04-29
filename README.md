@@ -1,8 +1,5 @@
-<h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=700&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yovenzor+Singh!;Frontend+Developer+💻;Based+In+Spain+🇪🇸"/>
-</h1>
-<img src="https://c.tenor.com/jHg-q58KgiYAAAAC/tenor.gif" />
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Yovenzor+Singh!;Frontend+Developer+%F0%9F%92%BB;Based+In+Spain+%F0%9F%87%AA%F0%9F%87%B8)](https://git.io/typing-svg)
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yovenzor-singh)
