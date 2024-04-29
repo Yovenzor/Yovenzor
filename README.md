@@ -29,7 +29,7 @@
 <br>
 😄 Pronouns: he/him
 <br>
-🥋 Fun fact: KungFu ShaoLin green belt 🟢
+🥋 Fun fact: Shaolin KungFu green belt 🟢
 
 <br>
 
