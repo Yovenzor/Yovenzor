@@ -15,17 +15,11 @@
 
 <h1>👊 A little bit about me! 👊</h1>
 
-🔭 I’m currently on multiple projects, I have no interest in working because I am trying to develop my skills
-<br>
 🌱 I’m currently learning JS
 <br>
 🖥️  See my portfolio at this [link](http://https://yovenzor.github.io/Portfolio/)
 <br>
-💬 Ask me about <strong> HTML, CSS </strong>
-<br>
-📫 How to reach me: swordofsingh@gmail.com
-<br>
-😄 Pronouns: he/him
+📫 Send me an email: swordofsingh@gmail.com
 <br>
 🥋 Fun fact: Shaolin KungFu green belt 🟢
 
