@@ -21,7 +21,7 @@
 <br>
 📫 Send me an email: swordofsingh@gmail.com
 <br>
-🥋 Fun fact: Shaolin KungFu green belt 🟢
+🥋 Fun fact: Shaolin KungFu brown belt 🟤
 
 <br>
 
