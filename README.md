@@ -10,7 +10,7 @@
 
 <br>
 
-<h1>👊 A little bit about me! 👊</h1>
+<h1> A little bit about me! </h1>
 
 🌱 I’m currently learning
 <br>
