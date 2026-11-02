@@ -22,31 +22,3 @@
 🥋 Fun fact: Shaolin KungFu brown belt 🟤
 
 <br>
-
-<h1>🛠 Skills 🛠</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,vscode,github)](https://skillicons.dev)
-
-<br>
-
-<h1>🚀 Top Projects 🚀</h1>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=vscode-theme&theme=dark)](https://github.com/Yovenzor/vscode-theme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Portfolio&theme=dark)](https://github.com/Yovenzor/Portfolio)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=QR&theme=dark)](https://github.com/Yovenzor/QR)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Image-generator&theme=dark)](https://github.com/Yovenzor/Image-generator)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Link&theme=dark)](https://github.com/Yovenzor/Link)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=Website&theme=dark)](https://github.com/Yovenzor/Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=quote&theme=dark)](https://github.com/Yovenzor/quote)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yovenzor&repo=X-Login-Clon&theme=dark)](https://github.com/Yovenzor/X-Login-Clon)
-
-<br>
-
-<h1>🔥 My Stats 🔥</h1>
-
-<br>
-
-![Yovenzor's Stats](https://github-readme-stats.vercel.app/api?username=Yovenzor&theme=dark&rank_icon=github&show_icons=true&hide_border=true&count_private=true&rank_icons=github)
-![Yovenzor's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yovenzor&theme=dark&show_icons=true&hide_border=true&layout=compact)
-
-</div>
